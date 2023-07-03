@@ -14,8 +14,8 @@
 ##
 
 
-![_irijon_ GitHub stats](https://github-readme-stats.vercel.app/api?username=nojirilucas&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![_irijon_ GitHub stats](https://github-readme-stats.vercel.app/api?username=nojirilucas&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+5531997038883)
