@@ -4,7 +4,7 @@
 
 ## Linguagens
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?nojirilucas=vn7n24fzkq&theme=default) 
+![](http://github-nojirilucas-summary-cards.vercel.app/api/cards/profile-details?nojirilucas=vn7n24fzkq&theme=default) 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nojirilucas)
 
