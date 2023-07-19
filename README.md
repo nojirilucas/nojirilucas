@@ -10,8 +10,7 @@
 <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
-![_irijon_ GitHub stats](https://github-readme-stats.vercel.app/api?username=nojirilucas&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 ##
 
