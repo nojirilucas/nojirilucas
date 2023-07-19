@@ -1,6 +1,7 @@
 ### Olá!✌️🙃
 - 🎓Estudante de Computação
 - 💡 Interesse em desenvolvimento web
+- 💡 Interesse em criação de jogos 
 
 ## Linguagens
 
