@@ -4,8 +4,6 @@
 - 💡 Desenvolvimento web
 - 💡 Criação de jogos
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nojirilucas&theme=swift)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nojirilucas)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas)](https://github.com/nojirilucasgithub-readme-stats)
