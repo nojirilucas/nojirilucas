@@ -7,12 +7,12 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
   <!-- Cartão de estatísticas -->
-  <div style="flex-basis: 48%; text-align: center;">
+  <div style="flex-basis: 48%; text-align: left;">
     <img src="https://github-readme-stats.vercel.app/api?username=nojirilucas&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=dark" alt="Anurag's github stats" />
   </div>
 
   <!-- Cartão de linguagens mais utilizadas -->
-  <div style="flex-basis: 48%; text-align: center;">
+  <div style="flex-basis: 48%; text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas&layout=compact&hide_border=true&theme=dark" alt="Top Langs" />
   </div>
 
