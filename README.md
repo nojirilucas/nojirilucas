@@ -2,7 +2,6 @@
 - 🎓Estudante de Computação
 - 💡 Desenvolvimento web
 - 💡 Criação de jogos
-- 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nojirilucas&theme=swift)
 
