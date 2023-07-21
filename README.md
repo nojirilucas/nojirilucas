@@ -1,9 +1,8 @@
-### Olá!✌️🙃
+### hi!✌️🙃
 - 🎓Estudante de Computação
-- 💡 Interesse em desenvolvimento web
-- 💡 Interesse em criação de jogos 
-
-## Linguagens
+- 💡 Desenvolvimento web
+- 💡 Criação de jogos
+- 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nojirilucas&theme=swift)
 
