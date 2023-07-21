@@ -7,16 +7,21 @@
 <div style="display: flex; justify-content: space-between;">
 
   <!-- Cartão de estatísticas -->
-  <a href="https://github.com/nojirilucas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nojirilucas&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=dark" alt="Anurag's github stats" />
-  </a>
+  <div style="width: 48%;">
+    <a href="https://github.com/nojirilucas">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nojirilucas&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=dark" alt="Anurag's github stats" />
+    </a>
+  </div>
 
   <!-- Cartão de linguagens mais utilizadas -->
-  <a href="https://github.com/nojirilucas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas&layout=compact&hide_border=true&theme=dark" alt="Top Langs" />
-  </a>
+  <div style="width: 48%;">
+    <a href="https://github.com/nojirilucas">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas&layout=compact&hide_border=true&theme=dark" alt="Top Langs" />
+    </a>
+  </div>
 
 </div>
+
 
 <div style="display: inline_block">
   <br/>
