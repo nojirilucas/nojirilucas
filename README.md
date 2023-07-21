@@ -4,9 +4,14 @@
 - 💡 Desenvolvimento web
 - 💡 Criação de jogos
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nojirilucas)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas)](https://github.com/nojirilucasgithub-readme-stats)
+<div style="display: flex; flex-direction: row;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nojirilucas" alt="GitHub Stats" />
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas" alt="Top Languages" />
+  </div>
+</div>
 
 <div style="display: inline_block">
   <br/>
