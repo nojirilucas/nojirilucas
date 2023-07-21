@@ -4,14 +4,13 @@
 - 💡 Desenvolvimento web
 - 💡 Criação de jogos
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nojirilucas" alt="GitHub Stats" />
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas" alt="Top Languages" />
-  </div>
+<div style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nojirilucas" alt="GitHub Stats" />
 </div>
+<div style="display: inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nojirilucas" alt="Top Languages" />
+</div>
+
 
 <div style="display: inline_block">
   <br/>
